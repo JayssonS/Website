@@ -126,9 +126,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "September 2018 - May 2022",
     points: [
-      "Developed and maintaining web services using Canvas and AWS.",
+      "Developed and maintained web services using Canvas and AWS.",
       "Collaborated with cross-functional teams including writers, professors, and other developers to create high-quality pages.",
-      "Implemented a unique design and ensuring up to date news, announcements, and awards were posted",
+      "Implemented a unique design and ensured up to date news, announcements, and awards were posted",
     ],
   },
   {
@@ -138,7 +138,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2022 - Aug 2022",
     points: [
-      "Worked and monitored health of clusters and servers using Apache Kafka.",
+      "Worked on and monitored health of clusters and servers using Apache Kafka.",
       "Coordinated with a global team with different time zones to report any findings during their time examining the clusters.",
       "Participated in big data reviews and reported any findings to the director to examine server performance and health.",
     ],
@@ -189,7 +189,7 @@ const projects = [
   {
     name: "Spotify 2",
     description:
-      "Web-based application based off the Spotify platform that allows users to search, recommend, and chat about the their favorite genres of music. With fully integrated profiles and login sytems that allow you express your music taste freely.",
+      "Web-based application based off the Spotify platform that allows users to search, recommend, and chat about their favorite genres of music. With fully integrated profiles and login sytems that allow you express your music taste freely.",
     tags: [
       {
         name: "django",
@@ -208,7 +208,7 @@ const projects = [
     source_code_link: "https://github.com/JayssonS/SeniorProject",
   },
   {
-    name: "Derived",
+    name: "Derived (WIP)",
     description:
       "A metroid-vania style 2D platformer that takes the player on a journey of figuring out whether every upgrade is worth the repercussions that it inflicts on the overworld.",
     tags: [
