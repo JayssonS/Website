@@ -47,10 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      I'm a Software Engineer that specializes development in Web Applications, Mobile Applications
-      Game Development, and Database Development using AWS and Firebase. I have previous working with
-      a CI/CD pipeline and have used React, Node.js, Django, and Three.js frameworks. Always excited
-      to learn more and expand my toolset, let's work together!
+      I am a software engineer with a strong background in various areas, such as web development, mobile development, game development,
+       and database solutions. I specialize in using AWS and Firebase to create reliable and scalable applications. I also have experience
+        in continuous integration and continuous deployment (CI/CD) practices. My toolkit includes technologies like React, Node.js, Django,
+         and Three.js, which I've used to build engaging and user-friendly applications. I am dedicated to finding creative solutions that enhance
+          the user experience through technology.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
