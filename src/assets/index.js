@@ -27,7 +27,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import rowan from "./company/rowan.png";
-import asrc from "./company/ASRC.png";
+import asrc from "./company/asrc.png";
 import visa from "./company/visa.png";
 
 import spotify2 from "./spotify.jpg";
